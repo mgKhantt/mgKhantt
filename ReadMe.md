@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello. I am mgKhantt. I am going to develop with Swift.
+Hello. I am mgKhantt.
 
 
 # 💻 Tech Stack:
